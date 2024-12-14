@@ -1,0 +1,7 @@
+node_modules/
+__**__
+my-venv
+**/lib/python3.11/**/*
+**/i2c/bin/*
+**/i2c/lib64
+**/pyvenv.cfg
